@@ -1,0 +1,6 @@
+test dot txt
+this file used to test git commands... 
+
+
+
+clone and commit ~ download and upload
